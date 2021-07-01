@@ -4,6 +4,7 @@ Abstract:
 
 This is an Informative Health Care website. 
 It is related to Healthcare which provides live location to find nearby hospitals & Medical stores using google maps, Diet plans for patient having different diseases, Prescriptions of that diseases and also Health care tips for senior patients. It is easy to access by senior patients also. 
+In healthcare folder all the screenshots of website are available.
 
 
 Technologies Used:
